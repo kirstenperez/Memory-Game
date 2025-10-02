@@ -33,6 +33,7 @@ Difficulty can be customized by choosing different grid sizes, themes, and time 
 - Clone or download the repository.
 - Open the project in VS Code.
 - Build and run the program to play the game in the terminal.
+  - Ensure that the .txt files are in the output folder for the project.
 
 # Known Issues / Limitations
 - Output edge cases: Non-numeric input or very large numbers may cause unexpected behavior.
